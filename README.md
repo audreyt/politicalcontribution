@@ -6,7 +6,7 @@
 		- A12_scanallpublic：掃描檔（資料來源：監察院）
 		- A02_company_all_public：政治獻金營利事業明細（資料來源：監察院）
 		- A05_basic_all：所有分區立委的基本資料、選舉狀況、政治獻金收入結算（資料來源：中選會、監察院）
-	- 2014 
+	- 2012 
 		- A18_scanall_pub：第八屆立委政治獻金原始掃描檔
 		- political_donation_8_od：第八屆立委政治獻金csv檔案
 		- A15_basicall8：第八屆立委基本資料
